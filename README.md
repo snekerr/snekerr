@@ -23,7 +23,7 @@
 
 ```javascript
 const snekerr = {
-  age: 20,
+  age: 21,
   location: "Argentina",
   interests: ["Programming", "Game Development", "Technology"],
   currentlyLearning: ["Kotlin", "C#", "Java"],
